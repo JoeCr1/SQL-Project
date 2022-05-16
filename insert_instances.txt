@@ -1,0 +1,24 @@
+Subtype Instances:
+Object-Type	    OID	    Oname	Name	            Genus	    Elfkind
+------          ----    ---     ------              -----       --------
+MAN_T	        1	    Man	    Boromir	            Men	 
+MAN_T	        2	    Man	    Faramir	            Men	 
+HOBBIT_T	    3	    Hobbit	Bilbo	            Hobbits	 
+HOBBIT_T	    4	    Hobbit	Frodo	            Hobbits	 
+HOBBIT_T	    5	    Hobbit	Merry	            Hobbits	 
+HOBBIT_T	    6	    Hobbit	Pippin	            Hobbits	 
+HOBBIT_T	    7	    Hobbit	Samwise	            Hobbits	 
+DWARF_T	        8	    Dwarf	Gimli	            Dwarves	 
+NOLDOR_T	    9	    Elf	    Feanor	            Elves	    Noldor
+SILVAN_T	    10	    Elf	    Tauriel	            Elves	    Silvan
+TELERI_T	    11	    Elf	    Earwen	            Elves	    Teleri
+TELERI_T	    12	    Elf	    Celeborn	        Elves	    Teleri
+SINDAR_T	    13	    Elf	    Thranduil	        Elves	    Sindar
+SINDAR_T	    14	    Elf	    Legolas	            Elves	    Sindar
+ORC_T	        15	    Orc	    Azog the Defiler	Orcs	 
+ORC_T	        16	    Orc	    Bolg	            Orcs	 
+MAIA_T	        17	    Maia	Gandalf the Grey	Maiar	 
+MAIA_T	        18	    Maia	Radagast the Brown	Maiar	 
+MAIA_T	        19	    Maia	Saruman the White	Maiar	 
+GOBLIN_T	    20	    Goblin	The Great Goblin	Goblins	 
+MAN_T	        21	    Man	    Aragorn	            Men	
